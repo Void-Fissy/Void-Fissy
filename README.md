@@ -60,9 +60,9 @@ Concepto de plataforma de gestión hotelera enfocada en:
 
 ---
 
-<h2 align="center">🌱 My Skills</h2>
+<h2 align="center">🌱 Mis Skills</h2>
 
-<h4 align="center">💻 Programming languages (and html)</h4>
+<h4 align="center">💻 Lenguajes De Programación</h4>
 
 <p align="center">
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -81,7 +81,7 @@ Concepto de plataforma de gestión hotelera enfocada en:
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 
-<h4 align="center">📚 Frameworks and Libraries</h4>
+<h4 align="center">📚 Frameworks & Librerias</h4>
 
 <p align="center">
 <a href="#"><img alt="Apollo" src="https://img.shields.io/badge/Apollo-311C87.svg?logo=apollo-graphql&logoColor=white"></a>
