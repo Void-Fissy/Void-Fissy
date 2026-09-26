@@ -10,9 +10,7 @@
 
 ### Estudiante de Ingeniería Informática · Creador · Entusiasta de la tecnología
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Void-Fissy&color=blueviolet"/>
-</p>
+<p align="center"> <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Void-Fissy&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000"> <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Void-Fissy&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI"> <img src ="https://github-readme-streak-stats.herokuapp.com?user=Void-Fissy&theme=material-palenight&hide_border=true&background=FFFFFF00"> </p>
 
 <img
 src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=C9B5FF&center=true&vCenter=true&width=900&lines=%F0%9F%90%A7+Camino+hacia+las+estrellas.;%F0%9F%9A%80+Construyendo+productos+SaaS+y+software+real.;%F0%9F%94%90+Aprendiendo+ciberseguridad+mediante+proyectos+pr%C3%A1cticos.;%F0%9F%8C%8C+C%C3%B3digo%2C+infraestructura%2C+automatizaci%C3%B3n+y+exploraci%C3%B3n."
