@@ -90,40 +90,6 @@ Mi objetivo es comprender cómo diseñar aplicaciones teniendo la seguridad en c
 
 ---
 
-## 🌌 Órbita de Contribuciones
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Void-Fissy&bg_color=0d1117&color=c9b5ff&line=7aa2f7&point=c9b5ff&area=true&hide_border=true"
-alt="Gráfico de contribuciones de Void-Fissy"
-width="100%"
-/>
-
-</div>
-
----
-
-## 📈 GitHub
-
-<div align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=Void-Fissy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&rank_icon=github"
-alt="Estadísticas de GitHub"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Void-Fissy&layout=compact&theme=tokyonight&hide_border=true&border_radius=14"
-alt="Lenguajes más utilizados"
-/>
-
-</div>
-
----
-
 ## 📡 Contacto
 
 <div align="center">
