@@ -44,7 +44,7 @@ Me gusta trabajar en diferentes partes del desarrollo, desde interfaces y APIs h
 
 ### 🏢 Fissy's Corp
 
-Un ecosistema de proyectos de software, productos digitales e ideas de negocio enfocado en convertir la tecnología en soluciones útiles para el mundo real.
+Una empresa de software, productos digitales e ideas de negocio enfocado en convertir la tecnología en soluciones útiles para el mundo real.
 
 ### 🍽️ RestaurantOS
 
@@ -57,24 +57,6 @@ Plataforma de gestión para restaurantes enfocada en las operaciones del día a 
 Concepto de plataforma de gestión hotelera enfocada en:
 
 `Reservas` · `Habitaciones` · `Disponibilidad` · `Huéspedes` · `Administración` · `Automatización`
-
-### 🤖 Sistemas de Automatización
-
-Proyectos y experimentos relacionados con:
-
-`Express` · `Webhooks` · `WhatsApp` · `PostgreSQL` · `ngrok` · `Paneles Administrativos`
-
-### 🎮 Desarrollo de Videojuegos
-
-Aprendiendo desarrollo de videojuegos con **Godot**, experimentando con:
-
-`Físicas 2D` · `Movimiento` · `Gravedad` · `Mecánicas de salto` · `Movimiento por carga` · `Superficies`
-
-### 🏠 Habbo / Desarrollo de Servidores Privados
-
-Explorando infraestructura y sistemas de servidores privados utilizando tecnologías como:
-
-`Docker` · `MySQL` · `Arcturus` · `Nitro` · `CMS` · `Salas` · `Catálogo` · `Muebles` · `Ropa`
 
 ---
 
@@ -92,7 +74,7 @@ Explorando infraestructura y sistemas de servidores privados utilizando tecnolog
 
 **Autenticación y APIs:** JWT · OAuth · REST · Webhooks
 **Infraestructura:** Railway · Hostinger · Cloudflare · Vercel
-**Herramientas:** VS Code · Postman · Figma · Notion
+**Herramientas:** VS Code · Postman · Canva · Notion
 
 </div>
 
@@ -105,16 +87,6 @@ Me interesa aprender ciberseguridad a través del desarrollo de software y la co
 `Autenticación` · `JWT` · `OAuth` · `Seguridad de APIs` · `Validación de entradas` · `Integraciones seguras` · `Seguridad web`
 
 Mi objetivo es comprender cómo diseñar aplicaciones teniendo la seguridad en cuenta desde el inicio.
-
----
-
-## 📚 Actualmente aprendiendo
-
-`Arquitectura de Software` · `SaaS escalable` · `Infraestructura Cloud` · `Automatización` · `Seguridad de aplicaciones`
-
-Estoy fortaleciendo mi comprensión de todo el ciclo de vida del software:
-
-**idea → arquitectura → desarrollo → despliegue → mantenimiento**
 
 ---
 
