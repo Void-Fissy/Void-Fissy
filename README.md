@@ -11,7 +11,7 @@
 ### Estudiante de Ingeniería Informática · Creador · Entusiasta de la tecnología
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Void-Fissy&theme=material-palenight&hide_border=true&background=FFFFFF00" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Void-Fissy&theme=react-dark&hide_border=true" />
 </p>
 
 <img
