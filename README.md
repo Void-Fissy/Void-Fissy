@@ -11,7 +11,7 @@
 ### Estudiante de Ingeniería Informática · Creador · Entusiasta de la tecnología
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Void-Fissy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Void-Fissy&theme=tokyonight"/>
 </p>
 
 <img
