@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="FISSY hero banner" width="100%" />
+  <img src="./assets/hero.svg" alt="Banner principal de Void-Fissy" width="100%" />
 </div>
 
 <br />
@@ -8,11 +8,11 @@
 
 # FISSY
 
-### Software Engineering Student · Builder · Tech Enthusiast
+### Estudiante de Ingeniería Informática · Creador · Entusiasta de la tecnología
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=C9B5FF&center=true&vCenter=true&width=900&lines=%F0%9F%90%A7+Path+to+the+stars.;%F0%9F%9A%80+Building+real+software+and+SaaS+products.;%F0%9F%94%90+Learning+cybersecurity+through+practical+systems.;%F0%9F%8C%8C+Code%2C+infrastructure%2C+automation+and+exploration."
-alt="Typing animation"
+src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=C9B5FF&center=true&vCenter=true&width=900&lines=%F0%9F%90%A7+Camino+hacia+las+estrellas.;%F0%9F%9A%80+Construyendo+productos+SaaS+y+software+real.;%F0%9F%94%90+Aprendiendo+ciberseguridad+mediante+proyectos+pr%C3%A1cticos.;%F0%9F%8C%8C+C%C3%B3digo%2C+infraestructura%2C+automatizaci%C3%B3n+y+exploraci%C3%B3n."
+alt="Animación de presentación"
 />
 
 </div>
@@ -21,68 +21,68 @@ alt="Typing animation"
 
 ---
 
-## 🐧 About Me
+## 🐧 Sobre mí
 
-I'm a **Software Engineering student** interested in turning ideas into real products.
+Soy estudiante de **Ingeniería Informática** interesado en convertir ideas en productos y sistemas reales.
 
-I enjoy working across the stack — from interfaces and APIs to databases, infrastructure, automation and deployment.
+Me gusta trabajar en diferentes partes del desarrollo, desde interfaces y APIs hasta bases de datos, infraestructura, automatización y despliegues.
 
-My main areas of interest are:
+### Mis principales áreas de interés
 
-* **Software Engineering & Full-Stack Development**
-* **SaaS & Product Development**
-* **Cybersecurity & Secure Web Applications**
-* **Cloud Infrastructure & DevOps**
-* **Automation & Integrations**
-* **Game Development & Interactive Systems**
+* **Ingeniería de Software y Desarrollo Full-Stack**
+* **SaaS y desarrollo de productos**
+* **Ciberseguridad y aplicaciones seguras**
+* **Infraestructura Cloud y DevOps**
+* **Automatización e integraciones**
+* **Desarrollo de videojuegos y sistemas interactivos**
 
-> 🌌 **Path to the stars:** learn, build, break things, understand why they broke, and build them better.
+> 🌌 **Camino hacia las estrellas:** aprender, construir, equivocarme, entender por qué falló y volver a construirlo mejor.
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 En qué estoy trabajando
 
 ### 🏢 Fissy's Corp
 
-A personal ecosystem of software projects, digital products and business ideas focused on turning technology into useful real-world solutions.
+Un ecosistema de proyectos de software, productos digitales e ideas de negocio enfocado en convertir la tecnología en soluciones útiles para el mundo real.
 
 ### 🍽️ RestaurantOS
 
-A restaurant management platform designed around day-to-day operations.
+Plataforma de gestión para restaurantes enfocada en las operaciones del día a día.
 
-`POS` · `Tables` · `Orders` · `KDS` · `Delivery` · `QR Menu` · `Inventory` · `Analytics` · `Roles` · `REST API`
+`POS` · `Mesas` · `Pedidos` · `KDS` · `Domicilios` · `Menú QR` · `Inventario` · `Analíticas` · `Roles` · `REST API`
 
 ### 🏨 Hostly
 
-A hotel management concept focused on:
+Concepto de plataforma de gestión hotelera enfocada en:
 
-`Reservations` · `Rooms` · `Availability` · `Guests` · `Administration` · `Automation`
+`Reservas` · `Habitaciones` · `Disponibilidad` · `Huéspedes` · `Administración` · `Automatización`
 
-### 🤖 Automation Systems
+### 🤖 Sistemas de Automatización
 
-Projects involving:
+Proyectos y experimentos relacionados con:
 
-`Express` · `Webhooks` · `WhatsApp` · `PostgreSQL` · `ngrok` · `Admin Panels`
+`Express` · `Webhooks` · `WhatsApp` · `PostgreSQL` · `ngrok` · `Paneles Administrativos`
 
-### 🎮 Game Development
+### 🎮 Desarrollo de Videojuegos
 
-Learning game development with **Godot**, experimenting with:
+Aprendiendo desarrollo de videojuegos con **Godot**, experimentando con:
 
-`2D Physics` · `Movement` · `Gravity` · `Jump Mechanics` · `Surface Mechanics`
+`Físicas 2D` · `Movimiento` · `Gravedad` · `Mecánicas de salto` · `Movimiento por carga` · `Superficies`
 
-### 🏠 Habbo / Private Server Development
+### 🏠 Habbo / Desarrollo de Servidores Privados
 
-Exploring private-server infrastructure and game systems using:
+Explorando infraestructura y sistemas de servidores privados utilizando tecnologías como:
 
-`Docker` · `MySQL` · `Arcturus` · `Nitro` · `CMS` · `Rooms` · `Catalog` · `Furniture` · `Clothing`
+`Docker` · `MySQL` · `Arcturus` · `Nitro` · `CMS` · `Salas` · `Catálogo` · `Muebles` · `Ropa`
 
 ---
 
-## 🛰️ Tech Stack
+## 🛰️ Tecnologías
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,bash,powershell,react,nextjs,nodejs,express,postgres,mysql,prisma,docker,git,github,linux,cloudflare,vercel,figma,postman,godot" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,bash,powershell,react,nextjs,nodejs,express,postgres,mysql,prisma,docker,git,github,linux,cloudflare,vercel,figma,postman,godot" alt="Tecnologías utilizadas" />
 
 </div>
 
@@ -90,54 +90,41 @@ Exploring private-server infrastructure and game systems using:
 
 <div align="center">
 
-**Auth & APIs:** JWT · OAuth · REST · Webhooks
-**Infrastructure:** Railway · Hostinger · Cloudflare · Vercel
-**Tools:** VS Code · Postman · Figma · Notion
+**Autenticación y APIs:** JWT · OAuth · REST · Webhooks
+**Infraestructura:** Railway · Hostinger · Cloudflare · Vercel
+**Herramientas:** VS Code · Postman · Figma · Notion
 
 </div>
 
 ---
 
-## 🔐 Cybersecurity
+## 🔐 Ciberseguridad
 
-I'm particularly interested in learning security through practical software development.
+Me interesa aprender ciberseguridad a través del desarrollo de software y la construcción de sistemas reales.
 
-`Authentication` · `JWT` · `OAuth` · `API Security` · `Input Validation` · `Secure Integrations` · `Web Security`
+`Autenticación` · `JWT` · `OAuth` · `Seguridad de APIs` · `Validación de entradas` · `Integraciones seguras` · `Seguridad web`
 
-I want to understand how to design systems with security in mind from the beginning.
-
----
-
-## 📚 Currently Learning
-
-`Software Architecture` · `Scalable SaaS` · `Cloud Infrastructure` · `Automation` · `Application Security`
-
-I'm continuously improving my understanding of the complete software lifecycle:
-
-**idea → architecture → implementation → deployment → maintenance**
+Mi objetivo es comprender cómo diseñar aplicaciones teniendo la seguridad en cuenta desde el inicio.
 
 ---
 
-## 🧠 Engineering Mindset
+## 📚 Actualmente aprendiendo
 
-```text
-Build first.
-Understand deeply.
-Question assumptions.
-Automate repetitive work.
-Learn from failures.
-Keep improving.
-```
+`Arquitectura de Software` · `SaaS escalable` · `Infraestructura Cloud` · `Automatización` · `Seguridad de aplicaciones`
+
+Estoy fortaleciendo mi comprensión de todo el ciclo de vida del software:
+
+**idea → arquitectura → desarrollo → despliegue → mantenimiento**
 
 ---
 
-## 🌌 Contribution Orbit
+## 🌌 Órbita de Contribuciones
 
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=FISSY&bg_color=0d1117&color=c9b5ff&line=7aa2f7&point=c9b5ff&area=true&hide_border=true"
-alt="GitHub contribution graph"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Void-Fissy&bg_color=0d1117&color=c9b5ff&line=7aa2f7&point=c9b5ff&area=true&hide_border=true"
+alt="Gráfico de contribuciones de Void-Fissy"
 width="100%"
 />
 
@@ -151,27 +138,27 @@ width="100%"
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api?username=FISSY&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&rank_icon=github"
-alt="GitHub statistics"
+src="https://github-readme-stats.vercel.app/api?username=Void-Fissy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&rank_icon=github"
+alt="Estadísticas de GitHub"
 />
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=FISSY&layout=compact&theme=tokyonight&hide_border=true&border_radius=14"
-alt="Top programming languages"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Void-Fissy&layout=compact&theme=tokyonight&hide_border=true&border_radius=14"
+alt="Lenguajes más utilizados"
 />
 
 </div>
 
 ---
 
-## 📡 Connect
+## 📡 Contacto
 
 <div align="center">
 
-<a href="https://github.com/FISSY">
+<a href="https://github.com/Void-Fissy">
   <img
-    src="https://img.shields.io/badge/GitHub-FISSY-181717?style=for-the-badge&logo=github"
+    src="https://img.shields.io/badge/GitHub-Void--Fissy-181717?style=for-the-badge&logo=github"
     alt="GitHub"
   />
 </a>
@@ -182,14 +169,14 @@ alt="Top programming languages"
 
 <div align="center">
 
-### 🐧 Build something worth remembering.
+### 🐧 Construye algo que valga la pena recordar.
 
 </div>
 
 <br />
 
 <div align="center">
-  <img src="./assets/footer.svg" alt="FISSY footer banner" width="100%" />
+  <img src="./assets/footer.svg" alt="Pie de página de FISSY" width="100%" />
 </div>
 
 <img
