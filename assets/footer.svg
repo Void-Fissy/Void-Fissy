@@ -1,16 +1,413 @@
-<svg width="1200" height="120" viewBox="0 0 1200 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="FISSY footer wave">
+<svg width="1200" height="150" viewBox="0 0 1200 150" fill="none"
+     xmlns="http://www.w3.org/2000/svg"
+     role="img"
+     aria-label="FISSY footer wave">
+
   <defs>
-    <linearGradient id="foot" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#293A80"/>
-      <stop offset="0.5" stop-color="#3A4C9A"/>
-      <stop offset="1" stop-color="#5566BC"/>
+
+    <!-- Fondo -->
+    <linearGradient id="sky" x1="0" y1="0" x2="1200" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080D24"/>
+      <stop offset="0.45" stop-color="#111A43"/>
+      <stop offset="1" stop-color="#202D68"/>
     </linearGradient>
+
+    <!-- Onda principal -->
+    <linearGradient id="wave" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#293A80"/>
+      <stop offset="0.28" stop-color="#485CB0"/>
+      <stop offset="0.52" stop-color="#6577D0"/>
+      <stop offset="0.75" stop-color="#4B60AE"/>
+      <stop offset="1" stop-color="#7182D9"/>
+    </linearGradient>
+
+    <!-- Segunda capa -->
+    <linearGradient id="wave2" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5366BD" stop-opacity="0.2"/>
+      <stop offset="0.5" stop-color="#B7C4FF" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#8EA0F0" stop-opacity="0.18"/>
+    </linearGradient>
+
+    <!-- Resplandor -->
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+
+    <!-- Clip para contenido -->
+    <clipPath id="rounded">
+      <rect width="1200" height="150" rx="22"/>
+    </clipPath>
+
   </defs>
-  <rect width="1200" height="120" rx="20" fill="#0E1433"/>
-  <path d="M0 72C120 46 240 90 360 72C480 54 600 20 720 42C840 64 960 106 1080 90C1140 82 1170 72 1200 64V120H0V72Z" fill="url(#foot)"/>
-  <circle cx="140" cy="32" r="2" fill="#E8EDFF"/>
-  <circle cx="230" cy="24" r="1.6" fill="#E8EDFF"/>
-  <circle cx="1020" cy="30" r="2" fill="#E8EDFF"/>
-  <circle cx="1080" cy="20" r="1.4" fill="#E8EDFF"/>
-  <text x="600" y="42" text-anchor="middle" fill="#E9EEFF" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">🐧 Path to the stars 🚀</text>
+
+  <!-- ========================================== -->
+  <!-- BACKGROUND -->
+  <!-- ========================================== -->
+
+  <rect width="1200" height="150" rx="22" fill="url(#sky)"/>
+
+  <g clip-path="url(#rounded)">
+
+    <!-- ========================================== -->
+    <!-- ESTRELLAS PEQUEÑAS -->
+    <!-- ========================================== -->
+
+    <g fill="#E8EDFF">
+
+      <circle cx="55" cy="28" r="0.9">
+        <animate attributeName="opacity"
+                 values="0.15;0.9;0.15"
+                 dur="2.8s"
+                 begin="0.2s"
+                 repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="115" cy="48" r="1">
+        <animate attributeName="opacity"
+                 values="0.9;0.2;0.9"
+                 dur="3.6s"
+                 begin="1.1s"
+                 repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="175" cy="25" r="1.4">
+        <animate attributeName="opacity"
+                 values="0.25;1;0.25"
+                 dur="2.4s"
+                 begin="0.7s"
+                 repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="255" cy="42" r="0.8">
+        <animate attributeName="opacity"
+                 values="0.2;0.85;0.2"
+                 dur="3.1s"
+                 begin="1.8s"
+                 repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="320" cy="22" r="1">
+        <animate attributeName="opacity"
+                 values="1;0.2;1"
+                 dur="2.9s"
+                 begin="0.4s"
+                 repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="410" cy="54" r="0.9">
+        <animate attributeName="opacity"
+                 values="0.2;1;0.2"
+                 dur="3.7s"
+                 begin="1.4s"
+                 repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="495" cy="30" r="1.3">
+        <animate attributeName="opacity"
+                 values="0.3;1;0.3"
+                 dur="2.6s"
+                 begin="0.9s"
+                 repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="585" cy="18" r="0.8">
+        <animate attributeName="opacity"
+                 values="0.8;0.2;0.8"
+                 dur="3.3s"
+                 begin="1.7s"
+                 repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="665" cy="45" r="1">
+        <animate attributeName="opacity"
+                 values="0.2;0.9;0.2"
+                 dur="2.7s"
+                 begin="0.5s"
+                 repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="745" cy="25" r="1.4">
+        <animate attributeName="opacity"
+                 values="1;0.25;1"
+                 dur="3.9s"
+                 begin="1.2s"
+                 repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="820" cy="52" r="0.9">
+        <animate attributeName="opacity"
+                 values="0.15;1;0.15"
+                 dur="2.5s"
+                 begin="0.8s"
+                 repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="900" cy="22" r="1">
+        <animate attributeName="opacity"
+                 values="0.25;0.9;0.25"
+                 dur="3.4s"
+                 begin="1.9s"
+                 repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="975" cy="45" r="0.8">
+        <animate attributeName="opacity"
+                 values="0.9;0.2;0.9"
+                 dur="2.8s"
+                 begin="0.6s"
+                 repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="1040" cy="26" r="1.5">
+        <animate attributeName="opacity"
+                 values="0.2;1;0.2"
+                 dur="3.2s"
+                 begin="1.3s"
+                 repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="1120" cy="52" r="0.9">
+        <animate attributeName="opacity"
+                 values="1;0.15;1"
+                 dur="2.3s"
+                 begin="0.3s"
+                 repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="1170" cy="28" r="1">
+        <animate attributeName="opacity"
+                 values="0.2;0.85;0.2"
+                 dur="3.5s"
+                 begin="1.6s"
+                 repeatCount="indefinite"/>
+      </circle>
+
+    </g>
+
+    <!-- ========================================== -->
+    <!-- ESTRELLAS DESTACADAS -->
+    <!-- ========================================== -->
+
+    <g fill="#FFFFFF" filter="url(#glow)">
+
+      <circle cx="140" cy="34" r="1.8">
+        <animate attributeName="opacity"
+                 values="0.25;1;0.25"
+                 dur="2.8s"
+                 begin="0.4s"
+                 repeatCount="indefinite"/>
+        <animate attributeName="r"
+                 values="1.4;2.3;1.4"
+                 dur="2.8s"
+                 begin="0.4s"
+                 repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="380" cy="35" r="1.5">
+        <animate attributeName="opacity"
+                 values="1;0.2;1"
+                 dur="3.4s"
+                 begin="1.5s"
+                 repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="625" cy="30" r="1.8">
+        <animate attributeName="opacity"
+                 values="0.2;1;0.2"
+                 dur="2.6s"
+                 begin="0.9s"
+                 repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="860" cy="37" r="1.5">
+        <animate attributeName="opacity"
+                 values="0.25;1;0.25"
+                 dur="3.1s"
+                 begin="1.1s"
+                 repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="1020" cy="34" r="1.8">
+        <animate attributeName="opacity"
+                 values="1;0.2;1"
+                 dur="2.9s"
+                 begin="0.6s"
+                 repeatCount="indefinite"/>
+      </circle>
+
+    </g>
+
+    <!-- ========================================== -->
+    <!-- PEQUEÑOS CRUCES DE LUZ -->
+    <!-- ========================================== -->
+
+    <g stroke="#EEF2FF" stroke-linecap="round">
+
+      <g opacity="0.6">
+        <path d="M220 18V28"/>
+        <path d="M215 23H225"/>
+        <animate attributeName="opacity"
+                 values="0;0.8;0"
+                 dur="3.8s"
+                 begin="0.5s"
+                 repeatCount="indefinite"/>
+      </g>
+
+      <g opacity="0.5">
+        <path d="M790 14V24"/>
+        <path d="M785 19H795"/>
+        <animate attributeName="opacity"
+                 values="0.7;0;0.7"
+                 dur="4.2s"
+                 begin="1.6s"
+                 repeatCount="indefinite"/>
+      </g>
+
+      <g opacity="0.55">
+        <path d="M1090 62V72"/>
+        <path d="M1085 67H1095"/>
+        <animate attributeName="opacity"
+                 values="0;0.8;0"
+                 dur="3.2s"
+                 begin="1s"
+                 repeatCount="indefinite"/>
+      </g>
+
+    </g>
+
+    <!-- ========================================== -->
+    <!-- ESTRELLA FUGAZ -->
+    <!-- ========================================== -->
+
+    <g opacity="0">
+
+      <path
+        d="M950 18L1025 48"
+        stroke="#DDE5FF"
+        stroke-width="2"
+        stroke-linecap="round"
+        opacity="0.25"
+      />
+
+      <circle cx="950" cy="18" r="2.2" fill="#FFFFFF" filter="url(#glow)"/>
+
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="-250 -20;0 0;250 35"
+        dur="7s"
+        begin="3s"
+        repeatCount="indefinite"/>
+
+      <animate
+        attributeName="opacity"
+        values="0;1;1;0"
+        dur="7s"
+        begin="3s"
+        repeatCount="indefinite"/>
+    </g>
+
+    <!-- ========================================== -->
+    <!-- GLOW SOBRE LA ONDA -->
+    <!-- ========================================== -->
+
+    <path
+      d="M0 78
+         C130 46 240 96 370 74
+         C500 52 605 18 730 44
+         C845 68 965 105 1080 88
+         C1140 80 1170 72 1200 64"
+      stroke="#BFCBFF"
+      stroke-width="6"
+      opacity="0.09"
+      filter="url(#softGlow)"
+    />
+
+    <!-- ========================================== -->
+    <!-- ONDA PRINCIPAL -->
+    <!-- ========================================== -->
+
+    <path
+      d="M0 78
+         C130 46 240 96 370 74
+         C500 52 605 18 730 44
+         C845 68 965 105 1080 88
+         C1140 80 1170 72 1200 64
+         V150
+         H0
+         Z"
+      fill="url(#wave)"
+    />
+
+    <!-- ========================================== -->
+    <!-- SEGUNDA ONDA -->
+    <!-- ========================================== -->
+
+    <path
+      d="M0 96
+         C130 70 250 112 385 94
+         C520 76 610 48 740 64
+         C860 80 955 114 1085 102
+         C1140 96 1175 88 1200 82
+         V150
+         H0
+         Z"
+      fill="url(#wave2)"
+    />
+
+    <!-- ========================================== -->
+    <!-- LÍNEA DE LUZ SOBRE LA OLA -->
+    <!-- ========================================== -->
+
+    <path
+      d="M0 78
+         C130 46 240 96 370 74
+         C500 52 605 18 730 44
+         C845 68 965 105 1080 88
+         C1140 80 1170 72 1200 64"
+      stroke="#DCE5FF"
+      stroke-width="1.2"
+      stroke-linecap="round"
+      opacity="0.5"
+    />
+
+    <!-- ========================================== -->
+    <!-- TEXTO -->
+    <!-- ========================================== -->
+
+    <text
+      x="600"
+      y="124"
+      text-anchor="middle"
+      fill="#F4F7FF"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="19"
+      font-weight="600"
+      letter-spacing="1.5">
+      FISSY
+    </text>
+
+    <text
+      x="600"
+      y="142"
+      text-anchor="middle"
+      fill="#D3DBFF"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-size="11"
+      font-weight="500"
+      letter-spacing="2.5"
+      opacity="0.9">
+      PATH TO THE STARS
+    </text>
+
+  </g>
+
 </svg>
