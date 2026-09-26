@@ -10,6 +10,10 @@
 
 ### Estudiante de Ingeniería Informática · Creador · Entusiasta de la tecnología
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Void-Fissy&theme=material-palenight&hide_border=true&background=FFFFFF00" />
+</p>
+
 <img
 src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=C9B5FF&center=true&vCenter=true&width=900&lines=%F0%9F%90%A7+Camino+hacia+las+estrellas.;%F0%9F%9A%80+Construyendo+productos+SaaS+y+software+real.;%F0%9F%94%90+Aprendiendo+ciberseguridad+mediante+proyectos+pr%C3%A1cticos.;%F0%9F%8C%8C+C%C3%B3digo%2C+infraestructura%2C+automatizaci%C3%B3n+y+exploraci%C3%B3n."
 alt="Animación de presentación"
