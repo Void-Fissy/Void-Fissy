@@ -162,7 +162,7 @@ Mi objetivo es comprender cómo diseñar aplicaciones teniendo la seguridad en c
 
 <div align="center">
 
-### 🐧 Construye algo que valga la pena recordar.
+### 🐧 Todos morimos dos veces. La primera cuando dejas de respirar y la segunda cuando te olvidan. Por eso dedico mi vida a enterrar tesoros que sigan pronunciando mi nombre cuando ya no pueda hacerlo.
 
 </div>
 
