@@ -50,11 +50,7 @@ A personal ecosystem of software projects, digital products and business ideas f
 
 A restaurant management platform designed around day-to-day operations.
 
-**Includes:**
-
 `POS` · `Tables` · `Orders` · `KDS` · `Delivery` · `QR Menu` · `Inventory` · `Analytics` · `Roles` · `REST API`
-
-Built with a focus on practical workflows rather than just a demo interface.
 
 ### 🏨 Hostly
 
@@ -64,21 +60,19 @@ A hotel management concept focused on:
 
 ### 🤖 Automation Systems
 
-Experiments and projects involving:
+Projects involving:
 
 `Express` · `Webhooks` · `WhatsApp` · `PostgreSQL` · `ngrok` · `Admin Panels`
 
-The goal is to connect systems together and automate repetitive workflows.
-
 ### 🎮 Game Development
 
-Learning game development with **Godot** through small systems and experiments involving:
+Learning game development with **Godot**, experimenting with:
 
-`2D Physics` · `Movement` · `Gravity` · `Jump Mechanics` · `Charge-Based Movement` · `Surface Mechanics`
+`2D Physics` · `Movement` · `Gravity` · `Jump Mechanics` · `Surface Mechanics`
 
 ### 🏠 Habbo / Private Server Development
 
-Exploring private-server infrastructure and game systems using technologies such as:
+Exploring private-server infrastructure and game systems using:
 
 `Docker` · `MySQL` · `Arcturus` · `Nitro` · `CMS` · `Rooms` · `Catalog` · `Furniture` · `Clothing`
 
@@ -88,94 +82,17 @@ Exploring private-server infrastructure and game systems using technologies such
 
 <div align="center">
 
-### Languages
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,bash,powershell,react,nextjs,nodejs,express,postgres,mysql,prisma,docker,git,github,linux,cloudflare,vercel,figma,postman,godot" alt="Tech stack" />
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,bash,powershell" alt="Programming languages" />
+</div>
 
-<br /><br />
+<br />
 
-### Frontend
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs" alt="Frontend technologies" />
-
-<br /><br />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend technologies" />
-
-<br /><br />
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases" />
-
-<br /><br />
-
-<img
-src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"
-alt="Prisma"
-/>
-
-<br /><br />
-
-### Authentication & Integrations
-
-<img
-src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"
-alt="JWT"
-/> <img
-src="https://img.shields.io/badge/Google%20OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white"
-alt="Google OAuth"
-/> <img
-src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white"
-alt="Resend"
-/> <img
-src="https://img.shields.io/badge/Webhooks-0EA5E9?style=for-the-badge"
-alt="Webhooks"
-/> <img
-src="https://img.shields.io/badge/Wompi-6A1B9A?style=for-the-badge&logoColor=white"
-alt="Wompi"
-/>
-
-<br /><br />
-
-### DevOps & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,cloudflare,vercel" alt="DevOps and infrastructure" />
-
-<br /><br />
-
-<img
-src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"
-alt="Railway"
-/> <img
-src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white"
-alt="Hostinger"
-/>
-
-<br /><br />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma" alt="Development tools" />
-
-<br /><br />
-
-<img
-src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"
-alt="Notion"
-/>
-
-<br /><br />
-
-### Game Development
-
-<img src="https://skillicons.dev/icons?i=godot" alt="Godot" />
-<img
-  src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"
-  alt="GDScript"
-/>
+**Auth & APIs:** JWT · OAuth · REST · Webhooks
+**Infrastructure:** Railway · Hostinger · Cloudflare · Vercel
+**Tools:** VS Code · Postman · Figma · Notion
 
 </div>
 
@@ -185,31 +102,17 @@ alt="Notion"
 
 I'm particularly interested in learning security through practical software development.
 
-Current areas of focus:
-
 `Authentication` · `JWT` · `OAuth` · `API Security` · `Input Validation` · `Secure Integrations` · `Web Security`
 
-Rather than treating security as something separate from development, I want to understand how to design systems with security in mind from the beginning.
+I want to understand how to design systems with security in mind from the beginning.
 
 ---
 
 ## 📚 Currently Learning
 
-```text
-Software Architecture
-        ↓
-Scalable SaaS Systems
-        ↓
-Cloud Infrastructure
-        ↓
-Automation & Integrations
-        ↓
-Application Security
-        ↓
-Better Products
-```
+`Software Architecture` · `Scalable SaaS` · `Cloud Infrastructure` · `Automation` · `Application Security`
 
-I'm continuously improving my understanding of how software moves from:
+I'm continuously improving my understanding of the complete software lifecycle:
 
 **idea → architecture → implementation → deployment → maintenance**
 
@@ -225,8 +128,6 @@ Automate repetitive work.
 Learn from failures.
 Keep improving.
 ```
-
-I enjoy projects where I can understand the whole system instead of working on only one isolated piece.
 
 ---
 
