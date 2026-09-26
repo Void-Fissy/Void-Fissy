@@ -1,0 +1,16 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="FISSY footer wave">
+  <defs>
+    <linearGradient id="foot" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#293A80"/>
+      <stop offset="0.5" stop-color="#3A4C9A"/>
+      <stop offset="1" stop-color="#5566BC"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" rx="20" fill="#0E1433"/>
+  <path d="M0 72C120 46 240 90 360 72C480 54 600 20 720 42C840 64 960 106 1080 90C1140 82 1170 72 1200 64V120H0V72Z" fill="url(#foot)"/>
+  <circle cx="140" cy="32" r="2" fill="#E8EDFF"/>
+  <circle cx="230" cy="24" r="1.6" fill="#E8EDFF"/>
+  <circle cx="1020" cy="30" r="2" fill="#E8EDFF"/>
+  <circle cx="1080" cy="20" r="1.4" fill="#E8EDFF"/>
+  <text x="600" y="42" text-anchor="middle" fill="#E9EEFF" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">🐧 Path to the stars 🚀</text>
+</svg>
